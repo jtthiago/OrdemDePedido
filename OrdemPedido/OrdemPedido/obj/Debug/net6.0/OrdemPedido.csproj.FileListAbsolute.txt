@@ -1,0 +1,15 @@
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\bin\Debug\net6.0\OrdemPedido.exe
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\bin\Debug\net6.0\OrdemPedido.deps.json
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\bin\Debug\net6.0\OrdemPedido.runtimeconfig.json
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\bin\Debug\net6.0\OrdemPedido.dll
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\bin\Debug\net6.0\OrdemPedido.pdb
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\OrdemPedido.csproj.AssemblyReference.cache
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\OrdemPedido.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\OrdemPedido.AssemblyInfoInputs.cache
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\OrdemPedido.AssemblyInfo.cs
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\OrdemPedido.csproj.CoreCompileInputs.cache
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\OrdemPedido.dll
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\refint\OrdemPedido.dll
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\OrdemPedido.pdb
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\OrdemPedido.genruntimeconfig.cache
+C:\workspace\Curso C#\OrdemPedido\OrdemPedido\obj\Debug\net6.0\ref\OrdemPedido.dll
