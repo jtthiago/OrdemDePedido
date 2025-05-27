@@ -13,11 +13,6 @@ Projeto desenvolvido em C# com objetivo de gerenciar pedidos de clientes, conten
 
 ---
 
-## 🏗️ Estrutura do Projeto
-
-
----
-
 ## 🧠 Tecnologias e conceitos aplicados
 
 - 🟦 **C#**
